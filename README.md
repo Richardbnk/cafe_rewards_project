@@ -1,4 +1,4 @@
-# Café Rewards Data Engineering Pipeline
+# Cafe Rewards Data Engineering Pipeline
 
 ## Overview
 
