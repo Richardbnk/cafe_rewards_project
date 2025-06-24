@@ -1,0 +1,3 @@
+credentials/gcp-project.json
+# Ignore CSV files in data/raw
+/data/raw/*.csv
