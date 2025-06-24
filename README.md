@@ -70,6 +70,9 @@ The project follows clean architecture principles, focusing on modularity, repro
 - **Refined Layer** (`src/refined_tables.py`):  
   Aggregates and computes metrics for analytics.
 
+![image](https://github.com/user-attachments/assets/60aad2a9-d365-4e88-84de-8db43e3cb402)
+
+
 ---
 
 ## Analytical Questions
